@@ -10,8 +10,8 @@ You play as a young man who was bitten by a dog as a child and now turns his tra
 ---
 
 ## Team
-- **Matan Brimer** – matanbrimer1@gmail.com  
-- *(More contributors can be added later)*  
+- Omer (omerzshahar@gmail.com)
+- Matan (Matanbrimer1@gmail.com) 
 
 ---
 
